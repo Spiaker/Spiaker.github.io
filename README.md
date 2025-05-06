@@ -5,35 +5,35 @@
 ![License](https://img.shields.io/github/license/senli1073/senli1073.github.io)
 ![Last Commit](https://img.shields.io/github/last-commit/senli1073/senli1073.github.io)
 
-# A simple Github Pages template for personal academic websites.
+# 用于个人学术网站的简单 Github Pages 网站。.
 
-## Preview
-[![Screenshot of the Website](https://raw.githubusercontent.com/senli1073/senli1073.github.io/main/screenshot_full.png)](https://senli1073.github.io/)
-
-
-## Introduction
-
-This personal academic website template is based on [bootstrap](https://github.com/StartBootstrap/startbootstrap-new-age).
-
-The template is designed to integrate Markdown files as content input.  There's no need to compile the webpage before deployment.  Upon loading, the Markdown files are automatically parsed and embedded into the page.
-
-This template supports LaTeX formula input. You can use `$...$` and `\(...\)` as delimiters for inline-math, or use `$$...$$` and `\[...\]` as delimiters for display-math. Macros such as `\ref{...}`, `\eqref{...}`, and `\begin{equation}...\end{equation}` are also supported. See [MathJax](https://docs.mathjax.org/en/latest/index.html) for more details.
-
-:milky_way: Demo: https://senli1073.github.io/
+## 预览
+[![screenshot_full](D:\Github\Personal website\Spiaker.github.io\screenshot_full.png)](https://spiaker.github.io/)
 
 
-## Getting Start
-### 1. Fork this repository
-The repository name should be `<username>.github.io`, which will also be your website's URL.
+## 介绍
+
+这个个人学术网站基于 [bootstrap](https://github.com/StartBootstrap/startbootstrap-new-age)。
+
+旨在将 Markdown 文件集成为内容输入。部署前无需编译网页。加载时，Markdown 文件会自动解析并嵌入到页面中。
+
+此模板支持 LaTeX 公式输入。您可以将 and 用作 inline-math 的分隔符，或者将 and 用作 display-math 的分隔符。还支持 、 和 等宏。有关更多详细信息，请参阅 [MathJax](https://docs.mathjax.org/en/latest/index.html)。`$...$``\(...\)``$$...$$``\[...\]``\ref{...}``\eqref{...}``\begin{equation}...\end{equation}`
+
+:milky_way: 演示: https://senli1073.github.io/
+
+## 开始使用
+
+### 1. Fork 此存储库
+存储库名称应为 ，它也将是您网站的 URL。`<username>.github.io`
 
 
-### 2. Edit page content
+### 2. 编辑页面内容
 
-(1) Go to the folder where you want to store your project, and clone the new repository:
+（1） 转到要存储项目的文件夹，并克隆新的仓库：
 ```
 git clone https://github.com/<username>/<username>.github.io.git
 ```
-The directory structure is as follows:
+目录结构如下：
 
 ```.
 .
@@ -45,25 +45,26 @@ The directory structure is as follows:
     └── js
 ```
 
-(2) Modify the content of each section, which corresponds to `contents/*.md`.
+（2） 修改各部分的内容，对应 。`contents/*.md`
 
-(3) Adjust the title, copyright information, and other text of the website in `contents/config.yml`
+（3） 调整网站的标题、版权信息和其他文本`contents/config.yml`
 
-(4) Replace background image and photo with new ones for your web pages in `static/assets/img/`
+（4） 将网页的背景图像和照片替换为新的`static/assets/img/`
 
-(5) Push it: 
+（5） 推送它：
+
 ```
 git commit -am 'init'
 git push
 ```
 
 
-### 3. Enjoy
+### 3. 使用
 
-Fire up a browser and go to `https://<username>.github.io`
+启动浏览器并转到 `https://<username>.github.io`
 
 
 
-## License
+## 许可证
 
-Copyright Sen Li, 2023. Licensed under an MIT license. You can copy and mess with this template.
+版权所有 Spiaker，2025 年。
