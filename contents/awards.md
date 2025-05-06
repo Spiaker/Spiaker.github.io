@@ -1,13 +1,5 @@
 - National Scholarship of Graduate Student, 2024.
-
 - First-prize Scholarship of CUMT, 2024.
-
-- First-prize Scholarship of CUMT, 2023.
-
-- Freshman Scholarship of CUMT, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+- 广东省大学生数学建模竞赛暨全国大学生数学建模竞赛广东省分赛二等奖, 2024.
+- Guangdong Provincial Contemporary College Students Mathematical Contest in Modeling, Second Prize 2024
+- 三等奖学金, 2024.
